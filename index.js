@@ -51,6 +51,9 @@ function mapToNegativize(arr){
  
  function reduceToAnyTrue(arr){
    for(let i=0;i<arr.length;i++){
-     
+     if(arr[i]){
+     return true
    }
+   return false
+ }
  }
