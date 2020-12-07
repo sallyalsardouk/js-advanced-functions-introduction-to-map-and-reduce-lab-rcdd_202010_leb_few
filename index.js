@@ -31,3 +31,7 @@ function mapToNegativize(arr){
    }
    return arr4
  }
+ 
+ function reduceToTotal(arr,startingPoint){
+   
+ }
