@@ -32,7 +32,7 @@ function mapToNegativize(arr){
    return arr4
  }
  
- function reduceToTotal(arr,startingPoint){
+ function reduceToTotal(arr,startingPoint=0){
    let sum=startingPoint
    for(let i=0;i<arr.length;i++){
      sum+=arr[i]
