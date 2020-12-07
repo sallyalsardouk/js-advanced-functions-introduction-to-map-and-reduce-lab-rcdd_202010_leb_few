@@ -40,4 +40,6 @@ function mapToNegativize(arr){
    return sum
  }
  
- function
+ function reduceToAllTrue(arr){
+   let 
+ }
