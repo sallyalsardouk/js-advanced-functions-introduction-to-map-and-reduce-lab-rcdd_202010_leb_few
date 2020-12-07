@@ -49,4 +49,8 @@ function mapToNegativize(arr){
    }
  }
  
- function
+ function reduceToAnyTrue(arr){
+   for(let i=0;i<arr.length;i++){
+     
+   }
+ }
