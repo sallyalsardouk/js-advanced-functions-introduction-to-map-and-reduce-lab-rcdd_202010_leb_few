@@ -45,5 +45,6 @@ function mapToNegativize(arr){
      if(!=arr[i]){
        return false
      }
+     return true
    }
  }
