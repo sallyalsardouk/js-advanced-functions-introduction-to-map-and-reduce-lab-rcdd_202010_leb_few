@@ -18,7 +18,7 @@ function mapToNegativize(arr){
  
  function mapToDouble(arr){
    let arr3=[]
-   for(i=0;i<arr.length;i++){
+   for(let i=0;i<arr.length;i++){
      arr3[i]=arr[i]*2
    }
    return arr3
